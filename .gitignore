@@ -1,2 +1,3 @@
-IPL_Ball_by_Ball_2008_2022 - IPL_Ball_by_Ball_2008_2022.csv
-ipl-matches.csv
+__pycache__
+.ipynb_checkpoints
+.idea
